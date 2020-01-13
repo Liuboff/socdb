@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "photo": "http://www.florencevillas.com/assets/73755607/images/img-testimonial.jpg",
+      "followed": true,
+      "name": "Dmitry",
+      "status": "I'm a boss",
+      "location": {
+        "country": "Belarus",
+        "city": "Minsk"
+      }
+    },
+    {
+      "id": 2,
+      "photo": "http://www.florencevillas.com/assets/73755607/images/img-testimonial.jpg",
+      "followed": false,
+      "name": "Sveta",
+      "status": "I wish you good day",
+      "location": {
+        "country": "Ukraine",
+        "city": "Kiev"
+      }
+    },
+    {
+      "id": 3,
+      "photo": "http://www.florencevillas.com/assets/73755607/images/img-testimonial.jpg",
+      "followed": true,
+      "name": "Antony",
+      "status": "I study react",
+      "location": {
+        "country": "Russia",
+        "city": "Moskow"
+      }
+    },
+    {
+      "id": 4,
+      "photo": "http://www.florencevillas.com/assets/73755607/images/img-testimonial.jpg",
+      "followed": false,
+      "name": "Andrew",
+      "status": "I'm a boss",
+      "location": {
+        "country": "USA",
+        "city": "Denver"
+      }
+    }
+  ]
+}
